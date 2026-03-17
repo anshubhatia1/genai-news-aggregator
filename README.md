@@ -1,1 +1,1 @@
-# AI_news_aggregator
+# genai-news-aggregator
